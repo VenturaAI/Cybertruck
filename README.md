@@ -1,4 +1,4 @@
-# Cybertruck
+# Autonomous 1:8 Cybertruck
 NeuralDrive: Autonomous 1:8 Scale (4x4) CyberTruck
 
 <img width="782" height="532" alt="image" src="https://github.com/user-attachments/assets/6b3c28cc-a969-473d-9763-2c9ad451b484" />
